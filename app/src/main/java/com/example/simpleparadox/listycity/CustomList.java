@@ -56,4 +56,7 @@ public class CustomList extends ArrayAdapter<City> {
         cities.add(c);
         return;
     }
+    public boolean hasCity(City c){
+
+    }
 }
